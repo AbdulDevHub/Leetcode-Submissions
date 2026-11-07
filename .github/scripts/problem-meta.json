@@ -1,0 +1,2218 @@
+{
+ "3sum": {
+  "id": 15,
+  "title": "3Sum",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Sorting"
+  ]
+ },
+ "4sum": {
+  "id": 18,
+  "title": "4Sum",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Sorting"
+  ]
+ },
+ "add-two-numbers": {
+  "id": 2,
+  "title": "Add Two Numbers",
+  "difficulty": "Medium",
+  "tags": [
+   "Linked List",
+   "Math",
+   "Recursion"
+  ]
+ },
+ "add-two-numbers-ii": {
+  "id": 445,
+  "title": "Add Two Numbers II",
+  "difficulty": "Medium",
+  "tags": [
+   "Linked List",
+   "Math",
+   "Stack"
+  ]
+ },
+ "analyze-user-website-visit-pattern": {
+  "id": 1152,
+  "title": "Analyze User Website Visit Pattern",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "String",
+   "Sorting"
+  ]
+ },
+ "append-characters-to-string-to-make-subsequence": {
+  "id": 2486,
+  "title": "Append Characters to String to Make Subsequence",
+  "difficulty": "Medium",
+  "tags": [
+   "Two Pointers",
+   "String",
+   "Greedy"
+  ]
+ },
+ "arranging-coins": {
+  "id": 441,
+  "title": "Arranging Coins",
+  "difficulty": "Easy",
+  "tags": [
+   "Math",
+   "Binary Search"
+  ]
+ },
+ "assign-cookies": {
+  "id": 455,
+  "title": "Assign Cookies",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Greedy",
+   "Sorting",
+   "Quicksort"
+  ]
+ },
+ "asteroid-collision": {
+  "id": 735,
+  "title": "Asteroid Collision",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Stack",
+   "Simulation"
+  ]
+ },
+ "average-waiting-time": {
+  "id": 1701,
+  "title": "Average Waiting Time",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Simulation"
+  ]
+ },
+ "balanced-binary-tree": {
+  "id": 110,
+  "title": "Balanced Binary Tree",
+  "difficulty": "Easy",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "baseball-game": {
+  "id": 682,
+  "title": "Baseball Game",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Stack",
+   "Simulation"
+  ]
+ },
+ "basic-calculator-ii": {
+  "id": 227,
+  "title": "Basic Calculator II",
+  "difficulty": "Medium",
+  "tags": [
+   "Math",
+   "String",
+   "Stack"
+  ]
+ },
+ "best-time-to-buy-and-sell-stock": {
+  "id": 121,
+  "title": "Best Time to Buy and Sell Stock",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Dynamic Programming"
+  ]
+ },
+ "best-time-to-buy-and-sell-stock-ii": {
+  "id": 122,
+  "title": "Best Time to Buy and Sell Stock II",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Dynamic Programming",
+   "Greedy"
+  ]
+ },
+ "binary-search": {
+  "id": 704,
+  "title": "Binary Search",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "binary-subarrays-with-sum": {
+  "id": 930,
+  "title": "Binary Subarrays With Sum",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Sliding Window",
+   "Prefix Sum"
+  ]
+ },
+ "binary-tree-inorder-traversal": {
+  "id": 94,
+  "title": "Binary Tree Inorder Traversal",
+  "difficulty": "Easy",
+  "tags": [
+   "Stack",
+   "Tree",
+   "Depth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "binary-tree-level-order-traversal": {
+  "id": 102,
+  "title": "Binary Tree Level Order Traversal",
+  "difficulty": "Medium",
+  "tags": [
+   "Tree",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "binary-tree-postorder-traversal": {
+  "id": 145,
+  "title": "Binary Tree Postorder Traversal",
+  "difficulty": "Easy",
+  "tags": [
+   "Stack",
+   "Tree",
+   "Depth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "binary-tree-preorder-traversal": {
+  "id": 144,
+  "title": "Binary Tree Preorder Traversal",
+  "difficulty": "Easy",
+  "tags": [
+   "Stack",
+   "Tree",
+   "Depth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "binary-tree-right-side-view": {
+  "id": 199,
+  "title": "Binary Tree Right Side View",
+  "difficulty": "Medium",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "binary-tree-zigzag-level-order-traversal": {
+  "id": 103,
+  "title": "Binary Tree Zigzag Level Order Traversal",
+  "difficulty": "Medium",
+  "tags": [
+   "Tree",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "boats-to-save-people": {
+  "id": 881,
+  "title": "Boats to Save People",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Greedy",
+   "Sorting",
+   "Timsort"
+  ]
+ },
+ "can-place-flowers": {
+  "id": 605,
+  "title": "Can Place Flowers",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Greedy"
+  ]
+ },
+ "capacity-to-ship-packages-within-d-days": {
+  "id": 1011,
+  "title": "Capacity To Ship Packages Within D Days",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "car-fleet": {
+  "id": 853,
+  "title": "Car Fleet",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Stack",
+   "Sorting",
+   "Monotonic Stack"
+  ]
+ },
+ "check-if-array-is-sorted-and-rotated": {
+  "id": 1752,
+  "title": "Check if Array Is Sorted and Rotated",
+  "difficulty": "Easy",
+  "tags": [
+   "Array"
+  ]
+ },
+ "concatenation-of-array": {
+  "id": 1929,
+  "title": "Concatenation of Array",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Simulation"
+  ]
+ },
+ "container-with-most-water": {
+  "id": 11,
+  "title": "Container With Most Water",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Greedy"
+  ]
+ },
+ "contains-duplicate": {
+  "id": 217,
+  "title": "Contains Duplicate",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Sorting"
+  ]
+ },
+ "contains-duplicate-ii": {
+  "id": 219,
+  "title": "Contains Duplicate II",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Sliding Window"
+  ]
+ },
+ "continuous-subarray-sum": {
+  "id": 523,
+  "title": "Continuous Subarray Sum",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Math",
+   "Prefix Sum",
+   "Pigeonhole Principle"
+  ]
+ },
+ "copy-list-with-random-pointer": {
+  "id": 138,
+  "title": "Copy List with Random Pointer",
+  "difficulty": "Medium",
+  "tags": [
+   "Hash Table",
+   "Linked List"
+  ]
+ },
+ "count-the-number-of-consistent-strings": {
+  "id": 1684,
+  "title": "Count the Number of Consistent Strings",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "String",
+   "Bit Manipulation",
+   "Counting"
+  ]
+ },
+ "count-vowel-strings-in-ranges": {
+  "id": 2559,
+  "title": "Count Vowel Strings in Ranges",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "String",
+   "Prefix Sum"
+  ]
+ },
+ "crawler-log-folder": {
+  "id": 1598,
+  "title": "Crawler Log Folder",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "String",
+   "Stack"
+  ]
+ },
+ "custom-sort-string": {
+  "id": 791,
+  "title": "Custom Sort String",
+  "difficulty": "Medium",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Sorting"
+  ]
+ },
+ "daily-temperatures": {
+  "id": 739,
+  "title": "Daily Temperatures",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Stack",
+   "Monotonic Stack"
+  ]
+ },
+ "decode-string": {
+  "id": 394,
+  "title": "Decode String",
+  "difficulty": "Medium",
+  "tags": [
+   "String",
+   "Stack",
+   "Recursion"
+  ]
+ },
+ "delete-node-in-a-bst": {
+  "id": 450,
+  "title": "Delete Node in a BST",
+  "difficulty": "Medium",
+  "tags": [
+   "Tree",
+   "Binary Search Tree",
+   "Binary Tree"
+  ]
+ },
+ "design-browser-history": {
+  "id": 1472,
+  "title": "Design Browser History",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Linked List",
+   "Stack",
+   "Design",
+   "Doubly-Linked List",
+   "Data Stream"
+  ]
+ },
+ "design-circular-queue": {
+  "id": 622,
+  "title": "Design Circular Queue",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Linked List",
+   "Design",
+   "Queue"
+  ]
+ },
+ "design-hashmap": {
+  "id": 706,
+  "title": "Design HashMap",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Linked List",
+   "Design",
+   "Hash Function"
+  ]
+ },
+ "design-hashset": {
+  "id": 705,
+  "title": "Design HashSet",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Linked List",
+   "Design",
+   "Hash Function"
+  ]
+ },
+ "design-linked-list": {
+  "id": 707,
+  "title": "Design Linked List",
+  "difficulty": "Medium",
+  "tags": [
+   "Linked List",
+   "Design"
+  ]
+ },
+ "diameter-of-binary-tree": {
+  "id": 543,
+  "title": "Diameter of Binary Tree",
+  "difficulty": "Easy",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Binary Tree",
+   "DP on Trees"
+  ]
+ },
+ "divide-array-into-equal-pairs": {
+  "id": 2206,
+  "title": "Divide Array Into Equal Pairs",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Bit Manipulation",
+   "Counting"
+  ]
+ },
+ "encode-and-decode-strings": {
+  "id": 271,
+  "title": "Encode and Decode Strings",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "String",
+   "Design"
+  ]
+ },
+ "evaluate-reverse-polish-notation": {
+  "id": 150,
+  "title": "Evaluate Reverse Polish Notation",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Math",
+   "Stack"
+  ]
+ },
+ "find-all-numbers-disappeared-in-an-array": {
+  "id": 448,
+  "title": "Find All Numbers Disappeared in an Array",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table"
+  ]
+ },
+ "find-common-characters": {
+  "id": 1002,
+  "title": "Find Common Characters",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "String"
+  ]
+ },
+ "find-first-and-last-position-of-element-in-sorted-array": {
+  "id": 34,
+  "title": "Find First and Last Position of Element in Sorted Array",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "find-in-mountain-array": {
+  "id": 1095,
+  "title": "Find in Mountain Array",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "Binary Search",
+   "Interactive",
+   "Ternary Search"
+  ]
+ },
+ "find-k-closest-elements": {
+  "id": 658,
+  "title": "Find K Closest Elements",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Binary Search",
+   "Sliding Window",
+   "Sorting",
+   "Heap (Priority Queue)"
+  ]
+ },
+ "find-lucky-integer-in-an-array": {
+  "id": 1394,
+  "title": "Find Lucky Integer in an Array",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Counting"
+  ]
+ },
+ "find-minimum-in-rotated-sorted-array": {
+  "id": 153,
+  "title": "Find Minimum in Rotated Sorted Array",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "find-missing-and-repeated-values": {
+  "id": 2965,
+  "title": "Find Missing and Repeated Values",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Math",
+   "Matrix"
+  ]
+ },
+ "find-peak-element": {
+  "id": 162,
+  "title": "Find Peak Element",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "find-pivot-index": {
+  "id": 724,
+  "title": "Find Pivot Index",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Prefix Sum"
+  ]
+ },
+ "find-the-difference-of-two-arrays": {
+  "id": 2215,
+  "title": "Find the Difference of Two Arrays",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table"
+  ]
+ },
+ "find-the-duplicate-number": {
+  "id": 287,
+  "title": "Find the Duplicate Number",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Binary Search",
+   "Bit Manipulation",
+   "Pigeonhole Principle",
+   "Floyd's Cycle Finding Algorithm"
+  ]
+ },
+ "find-the-index-of-the-first-occurrence-in-a-string": {
+  "id": 28,
+  "title": "Find the Index of the First Occurrence in a String",
+  "difficulty": "Easy",
+  "tags": [
+   "Two Pointers",
+   "String",
+   "String Matching",
+   "Z Algorithm",
+   "Knuth\u2013Morris\u2013Pratt Algorithm",
+   "Boyer\u2013Moore String-Search Algorithm"
+  ]
+ },
+ "find-words-that-can-be-formed-by-characters": {
+  "id": 1160,
+  "title": "Find Words That Can Be Formed by Characters",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "String",
+   "Counting"
+  ]
+ },
+ "first-missing-positive": {
+  "id": 41,
+  "title": "First Missing Positive",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "Hash Table"
+  ]
+ },
+ "first-unique-character-in-a-string": {
+  "id": 387,
+  "title": "First Unique Character in a String",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Queue",
+   "Counting"
+  ]
+ },
+ "frequency-of-the-most-frequent-element": {
+  "id": 1838,
+  "title": "Frequency of the Most Frequent Element",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search",
+   "Greedy",
+   "Sliding Window",
+   "Sorting",
+   "Prefix Sum"
+  ]
+ },
+ "fruit-into-baskets": {
+  "id": 904,
+  "title": "Fruit Into Baskets",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Sliding Window"
+  ]
+ },
+ "group-anagrams": {
+  "id": 49,
+  "title": "Group Anagrams",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "String",
+   "Sorting"
+  ]
+ },
+ "grumpy-bookstore-owner": {
+  "id": 1052,
+  "title": "Grumpy Bookstore Owner",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Sliding Window"
+  ]
+ },
+ "guess-number-higher-or-lower": {
+  "id": 374,
+  "title": "Guess Number Higher or Lower",
+  "difficulty": "Easy",
+  "tags": [
+   "Binary Search",
+   "Interactive"
+  ]
+ },
+ "height-checker": {
+  "id": 1051,
+  "title": "Height Checker",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Sorting",
+   "Counting Sort",
+   "Bubble Sort"
+  ]
+ },
+ "implement-queue-using-stacks": {
+  "id": 232,
+  "title": "Implement Queue using Stacks",
+  "difficulty": "Easy",
+  "tags": [
+   "Stack",
+   "Design",
+   "Queue"
+  ]
+ },
+ "implement-stack-using-queues": {
+  "id": 225,
+  "title": "Implement Stack using Queues",
+  "difficulty": "Easy",
+  "tags": [
+   "Stack",
+   "Design",
+   "Queue"
+  ]
+ },
+ "insert-delete-getrandom-o1": {
+  "id": 380,
+  "title": "Insert Delete GetRandom O(1)",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Math",
+   "Design",
+   "Randomized"
+  ]
+ },
+ "insert-into-a-binary-search-tree": {
+  "id": 701,
+  "title": "Insert into a Binary Search Tree",
+  "difficulty": "Medium",
+  "tags": [
+   "Tree",
+   "Binary Search Tree",
+   "Binary Tree"
+  ]
+ },
+ "insertion-sort-list": {
+  "id": 147,
+  "title": "Insertion Sort List",
+  "difficulty": "Medium",
+  "tags": [
+   "Linked List",
+   "Sorting"
+  ]
+ },
+ "intersection-of-two-arrays": {
+  "id": 349,
+  "title": "Intersection of Two Arrays",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Two Pointers",
+   "Binary Search",
+   "Sorting"
+  ]
+ },
+ "intersection-of-two-linked-lists": {
+  "id": 160,
+  "title": "Intersection of Two Linked Lists",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "Linked List",
+   "Two Pointers"
+  ]
+ },
+ "invert-binary-tree": {
+  "id": 226,
+  "title": "Invert Binary Tree",
+  "difficulty": "Easy",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "is-subsequence": {
+  "id": 392,
+  "title": "Is Subsequence",
+  "difficulty": "Easy",
+  "tags": [
+   "Two Pointers",
+   "String",
+   "Dynamic Programming"
+  ]
+ },
+ "isomorphic-strings": {
+  "id": 205,
+  "title": "Isomorphic Strings",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String"
+  ]
+ },
+ "koko-eating-bananas": {
+  "id": 875,
+  "title": "Koko Eating Bananas",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "kth-distinct-string-in-an-array": {
+  "id": 2053,
+  "title": "Kth Distinct String in an Array",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "String",
+   "Counting"
+  ]
+ },
+ "kth-smallest-product-of-two-sorted-arrays": {
+  "id": 2040,
+  "title": "Kth Smallest Product of Two Sorted Arrays",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "largest-3-same-digit-number-in-string": {
+  "id": 2264,
+  "title": "Largest 3-Same-Digit Number in String",
+  "difficulty": "Easy",
+  "tags": [
+   "String"
+  ]
+ },
+ "largest-number": {
+  "id": 179,
+  "title": "Largest Number",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "String",
+   "Greedy",
+   "Sorting"
+  ]
+ },
+ "largest-rectangle-in-histogram": {
+  "id": 84,
+  "title": "Largest Rectangle in Histogram",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "Stack",
+   "Monotonic Stack",
+   "Range Minimum/Maximum Query"
+  ]
+ },
+ "largest-substring-between-two-equal-characters": {
+  "id": 1624,
+  "title": "Largest Substring Between Two Equal Characters",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String"
+  ]
+ },
+ "length-of-last-word": {
+  "id": 58,
+  "title": "Length of Last Word",
+  "difficulty": "Easy",
+  "tags": [
+   "String"
+  ]
+ },
+ "lfu-cache": {
+  "id": 460,
+  "title": "LFU Cache",
+  "difficulty": "Hard",
+  "tags": [
+   "Hash Table",
+   "Linked List",
+   "Design",
+   "Doubly-Linked List"
+  ]
+ },
+ "linked-list-cycle": {
+  "id": 141,
+  "title": "Linked List Cycle",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "Linked List",
+   "Two Pointers",
+   "Floyd's Cycle Finding Algorithm"
+  ]
+ },
+ "longest-common-prefix": {
+  "id": 14,
+  "title": "Longest Common Prefix",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "String",
+   "Trie"
+  ]
+ },
+ "longest-consecutive-sequence": {
+  "id": 128,
+  "title": "Longest Consecutive Sequence",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Union-Find"
+  ]
+ },
+ "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit": {
+  "id": 1438,
+  "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Queue",
+   "Sliding Window",
+   "Heap (Priority Queue)",
+   "Ordered Set",
+   "Monotonic Queue"
+  ]
+ },
+ "longest-palindrome": {
+  "id": 409,
+  "title": "Longest Palindrome",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Greedy"
+  ]
+ },
+ "longest-repeating-character-replacement": {
+  "id": 424,
+  "title": "Longest Repeating Character Replacement",
+  "difficulty": "Medium",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Sliding Window"
+  ]
+ },
+ "longest-strictly-increasing-or-strictly-decreasing-subarray": {
+  "id": 3105,
+  "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+  "difficulty": "Easy",
+  "tags": [
+   "Array"
+  ]
+ },
+ "longest-substring-without-repeating-characters": {
+  "id": 3,
+  "title": "Longest Substring Without Repeating Characters",
+  "difficulty": "Medium",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Sliding Window"
+  ]
+ },
+ "lowest-common-ancestor-of-a-binary-search-tree": {
+  "id": 235,
+  "title": "Lowest Common Ancestor of a Binary Search Tree",
+  "difficulty": "Medium",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Binary Search Tree",
+   "Binary Tree",
+   "Binary Lifting",
+   "Lowest Common Ancestor"
+  ]
+ },
+ "lowest-common-ancestor-of-a-binary-tree": {
+  "id": 236,
+  "title": "Lowest Common Ancestor of a Binary Tree",
+  "difficulty": "Medium",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Binary Tree",
+   "Binary Lifting",
+   "Lowest Common Ancestor"
+  ]
+ },
+ "lowest-common-ancestor-of-a-binary-tree-iii": {
+  "id": 1650,
+  "title": "Lowest Common Ancestor of a Binary Tree III",
+  "difficulty": "Medium",
+  "tags": [
+   "Hash Table",
+   "Two Pointers",
+   "Tree",
+   "Binary Tree",
+   "Binary Lifting",
+   "Lowest Common Ancestor"
+  ]
+ },
+ "lru-cache": {
+  "id": 146,
+  "title": "LRU Cache",
+  "difficulty": "Medium",
+  "tags": [
+   "Hash Table",
+   "Linked List",
+   "Design",
+   "Doubly-Linked List"
+  ]
+ },
+ "majority-element": {
+  "id": 169,
+  "title": "Majority Element",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Divide and Conquer",
+   "Sorting",
+   "Counting",
+   "Boyer\u2013Moore Majority Vote Algorithm"
+  ]
+ },
+ "majority-element-ii": {
+  "id": 229,
+  "title": "Majority Element II",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Sorting",
+   "Counting",
+   "Boyer\u2013Moore Majority Vote Algorithm"
+  ]
+ },
+ "max-consecutive-ones": {
+  "id": 485,
+  "title": "Max Consecutive Ones",
+  "difficulty": "Easy",
+  "tags": [
+   "Array"
+  ]
+ },
+ "max-consecutive-ones-iii": {
+  "id": 1004,
+  "title": "Max Consecutive Ones III",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search",
+   "Sliding Window",
+   "Prefix Sum"
+  ]
+ },
+ "maximum-ascending-subarray-sum": {
+  "id": 1800,
+  "title": "Maximum Ascending Subarray Sum",
+  "difficulty": "Easy",
+  "tags": [
+   "Array"
+  ]
+ },
+ "maximum-depth-of-binary-tree": {
+  "id": 104,
+  "title": "Maximum Depth of Binary Tree",
+  "difficulty": "Easy",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "maximum-difference-between-even-and-odd-frequency-i": {
+  "id": 3442,
+  "title": "Maximum Difference Between Even and Odd Frequency I",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Counting"
+  ]
+ },
+ "maximum-frequency-stack": {
+  "id": 895,
+  "title": "Maximum Frequency Stack",
+  "difficulty": "Hard",
+  "tags": [
+   "Hash Table",
+   "Stack",
+   "Design",
+   "Ordered Set"
+  ]
+ },
+ "maximum-number-of-balloons": {
+  "id": 1189,
+  "title": "Maximum Number of Balloons",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Counting"
+  ]
+ },
+ "maximum-product-difference-between-two-pairs": {
+  "id": 1913,
+  "title": "Maximum Product Difference Between Two Pairs",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Sorting",
+   "Quicksort"
+  ]
+ },
+ "maximum-score-after-splitting-a-string": {
+  "id": 1422,
+  "title": "Maximum Score After Splitting a String",
+  "difficulty": "Easy",
+  "tags": [
+   "String",
+   "Prefix Sum"
+  ]
+ },
+ "maximum-twin-sum-of-a-linked-list": {
+  "id": 2130,
+  "title": "Maximum Twin Sum of a Linked List",
+  "difficulty": "Medium",
+  "tags": [
+   "Linked List",
+   "Two Pointers",
+   "Stack"
+  ]
+ },
+ "median-of-two-sorted-arrays": {
+  "id": 4,
+  "title": "Median of Two Sorted Arrays",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "Binary Search",
+   "Divide and Conquer"
+  ]
+ },
+ "merge-k-sorted-lists": {
+  "id": 23,
+  "title": "Merge k Sorted Lists",
+  "difficulty": "Hard",
+  "tags": [
+   "Linked List",
+   "Divide and Conquer",
+   "Heap (Priority Queue)",
+   "Merge Sort",
+   "Tournament Sort"
+  ]
+ },
+ "merge-sorted-array": {
+  "id": 88,
+  "title": "Merge Sorted Array",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Sorting"
+  ]
+ },
+ "merge-strings-alternately": {
+  "id": 1768,
+  "title": "Merge Strings Alternately",
+  "difficulty": "Easy",
+  "tags": [
+   "Two Pointers",
+   "String"
+  ]
+ },
+ "merge-two-binary-trees": {
+  "id": 617,
+  "title": "Merge Two Binary Trees",
+  "difficulty": "Easy",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "merge-two-sorted-lists": {
+  "id": 21,
+  "title": "Merge Two Sorted Lists",
+  "difficulty": "Easy",
+  "tags": [
+   "Linked List",
+   "Recursion"
+  ]
+ },
+ "middle-of-the-linked-list": {
+  "id": 876,
+  "title": "Middle of the Linked List",
+  "difficulty": "Easy",
+  "tags": [
+   "Linked List",
+   "Two Pointers"
+  ]
+ },
+ "min-stack": {
+  "id": 155,
+  "title": "Min Stack",
+  "difficulty": "Medium",
+  "tags": [
+   "Stack",
+   "Design"
+  ]
+ },
+ "minimize-the-maximum-difference-of-pairs": {
+  "id": 2616,
+  "title": "Minimize the Maximum Difference of Pairs",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search",
+   "Dynamic Programming",
+   "Greedy",
+   "Sorting"
+  ]
+ },
+ "minimum-changes-to-make-alternating-binary-string": {
+  "id": 1758,
+  "title": "Minimum Changes To Make Alternating Binary String",
+  "difficulty": "Easy",
+  "tags": [
+   "String"
+  ]
+ },
+ "minimum-difference-between-highest-and-lowest-of-k-scores": {
+  "id": 1984,
+  "title": "Minimum Difference Between Highest and Lowest of K Scores",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Sliding Window",
+   "Sorting"
+  ]
+ },
+ "minimum-number-of-operations-to-make-array-empty": {
+  "id": 2870,
+  "title": "Minimum Number of Operations to Make Array Empty",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Greedy",
+   "Counting"
+  ]
+ },
+ "minimum-recolors-to-get-k-consecutive-black-blocks": {
+  "id": 2379,
+  "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+  "difficulty": "Easy",
+  "tags": [
+   "String",
+   "Sliding Window"
+  ]
+ },
+ "minimum-remove-to-make-valid-parentheses": {
+  "id": 1249,
+  "title": "Minimum Remove to Make Valid Parentheses",
+  "difficulty": "Medium",
+  "tags": [
+   "String",
+   "Stack"
+  ]
+ },
+ "minimum-size-subarray-sum": {
+  "id": 209,
+  "title": "Minimum Size Subarray Sum",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search",
+   "Sliding Window",
+   "Prefix Sum"
+  ]
+ },
+ "minimum-time-to-collect-all-apples-in-a-tree": {
+  "id": 1443,
+  "title": "Minimum Time to Collect All Apples in a Tree",
+  "difficulty": "Medium",
+  "tags": [
+   "Hash Table",
+   "Tree",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "DP on Trees"
+  ]
+ },
+ "minimum-window-substring": {
+  "id": 76,
+  "title": "Minimum Window Substring",
+  "difficulty": "Hard",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Sliding Window"
+  ]
+ },
+ "monotonic-array": {
+  "id": 896,
+  "title": "Monotonic Array",
+  "difficulty": "Easy",
+  "tags": [
+   "Array"
+  ]
+ },
+ "move-zeroes": {
+  "id": 283,
+  "title": "Move Zeroes",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Two Pointers"
+  ]
+ },
+ "n-ary-tree-postorder-traversal": {
+  "id": 590,
+  "title": "N-ary Tree Postorder Traversal",
+  "difficulty": "Easy",
+  "tags": [
+   "Stack",
+   "Tree",
+   "Depth-First Search"
+  ]
+ },
+ "next-greater-element-i": {
+  "id": 496,
+  "title": "Next Greater Element I",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Stack",
+   "Monotonic Stack"
+  ]
+ },
+ "number-of-good-pairs": {
+  "id": 1512,
+  "title": "Number of Good Pairs",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Math",
+   "Counting"
+  ]
+ },
+ "number-of-senior-citizens": {
+  "id": 2678,
+  "title": "Number of Senior Citizens",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "String"
+  ]
+ },
+ "number-of-students-unable-to-eat-lunch": {
+  "id": 1700,
+  "title": "Number of Students Unable to Eat Lunch",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Stack",
+   "Queue",
+   "Simulation"
+  ]
+ },
+ "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold": {
+  "id": 1343,
+  "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Sliding Window"
+  ]
+ },
+ "number-of-subsequences-that-satisfy-the-given-sum-condition": {
+  "id": 1498,
+  "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Binary Search",
+   "Sorting"
+  ]
+ },
+ "number-of-visible-people-in-a-queue": {
+  "id": 1944,
+  "title": "Number of Visible People in a Queue",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "Stack",
+   "Monotonic Stack"
+  ]
+ },
+ "online-stock-span": {
+  "id": 901,
+  "title": "Online Stock Span",
+  "difficulty": "Medium",
+  "tags": [
+   "Stack",
+   "Design",
+   "Monotonic Stack",
+   "Data Stream"
+  ]
+ },
+ "palindrome-linked-list": {
+  "id": 234,
+  "title": "Palindrome Linked List",
+  "difficulty": "Easy",
+  "tags": [
+   "Linked List",
+   "Two Pointers",
+   "Stack",
+   "Recursion"
+  ]
+ },
+ "pascals-triangle": {
+  "id": 118,
+  "title": "Pascal's Triangle",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Dynamic Programming"
+  ]
+ },
+ "pascals-triangle-ii": {
+  "id": 119,
+  "title": "Pascal's Triangle II",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Dynamic Programming"
+  ]
+ },
+ "path-crossing": {
+  "id": 1496,
+  "title": "Path Crossing",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String"
+  ]
+ },
+ "path-sum": {
+  "id": 112,
+  "title": "Path Sum",
+  "difficulty": "Easy",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "permutation-in-string": {
+  "id": 567,
+  "title": "Permutation in String",
+  "difficulty": "Medium",
+  "tags": [
+   "Hash Table",
+   "Two Pointers",
+   "String",
+   "Sliding Window"
+  ]
+ },
+ "populating-next-right-pointers-in-each-node": {
+  "id": 116,
+  "title": "Populating Next Right Pointers in Each Node",
+  "difficulty": "Medium",
+  "tags": [
+   "Linked List",
+   "Tree",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "product-of-array-except-self": {
+  "id": 238,
+  "title": "Product of Array Except Self",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Prefix Sum"
+  ]
+ },
+ "random-pick-with-weight": {
+  "id": 528,
+  "title": "Random Pick with Weight",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Math",
+   "Binary Search",
+   "Prefix Sum",
+   "Randomized"
+  ]
+ },
+ "range-sum-of-bst": {
+  "id": 938,
+  "title": "Range Sum of BST",
+  "difficulty": "Easy",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Binary Search Tree",
+   "Binary Tree"
+  ]
+ },
+ "range-sum-query-2d-immutable": {
+  "id": 304,
+  "title": "Range Sum Query 2D - Immutable",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Design",
+   "Matrix",
+   "Prefix Sum"
+  ]
+ },
+ "range-sum-query-immutable": {
+  "id": 303,
+  "title": "Range Sum Query - Immutable",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Design",
+   "Prefix Sum"
+  ]
+ },
+ "ransom-note": {
+  "id": 383,
+  "title": "Ransom Note",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Counting"
+  ]
+ },
+ "rearrange-array-elements-by-sign": {
+  "id": 2149,
+  "title": "Rearrange Array Elements by Sign",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Simulation"
+  ]
+ },
+ "redistribute-characters-to-make-all-strings-equal": {
+  "id": 1897,
+  "title": "Redistribute Characters to Make All Strings Equal",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Counting"
+  ]
+ },
+ "relative-sort-array": {
+  "id": 1122,
+  "title": "Relative Sort Array",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Sorting",
+   "Counting Sort",
+   "Quicksort",
+   "Bubble Sort"
+  ]
+ },
+ "remove-all-adjacent-duplicates-in-string-ii": {
+  "id": 1209,
+  "title": "Remove All Adjacent Duplicates in String II",
+  "difficulty": "Medium",
+  "tags": [
+   "String",
+   "Stack"
+  ]
+ },
+ "remove-duplicates-from-sorted-array": {
+  "id": 26,
+  "title": "Remove Duplicates from Sorted Array",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Two Pointers"
+  ]
+ },
+ "remove-duplicates-from-sorted-array-ii": {
+  "id": 80,
+  "title": "Remove Duplicates from Sorted Array II",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers"
+  ]
+ },
+ "remove-element": {
+  "id": 27,
+  "title": "Remove Element",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Two Pointers"
+  ]
+ },
+ "remove-linked-list-elements": {
+  "id": 203,
+  "title": "Remove Linked List Elements",
+  "difficulty": "Easy",
+  "tags": [
+   "Linked List",
+   "Recursion"
+  ]
+ },
+ "remove-nth-node-from-end-of-list": {
+  "id": 19,
+  "title": "Remove Nth Node From End of List",
+  "difficulty": "Medium",
+  "tags": [
+   "Linked List",
+   "Two Pointers"
+  ]
+ },
+ "reorder-list": {
+  "id": 143,
+  "title": "Reorder List",
+  "difficulty": "Medium",
+  "tags": [
+   "Linked List",
+   "Two Pointers",
+   "Stack",
+   "Recursion"
+  ]
+ },
+ "replace-elements-with-greatest-element-on-right-side": {
+  "id": 1299,
+  "title": "Replace Elements with Greatest Element on Right Side",
+  "difficulty": "Easy",
+  "tags": [
+   "Array"
+  ]
+ },
+ "reverse-linked-list": {
+  "id": 206,
+  "title": "Reverse Linked List",
+  "difficulty": "Easy",
+  "tags": [
+   "Linked List",
+   "Recursion"
+  ]
+ },
+ "reverse-linked-list-ii": {
+  "id": 92,
+  "title": "Reverse Linked List II",
+  "difficulty": "Medium",
+  "tags": [
+   "Linked List"
+  ]
+ },
+ "reverse-nodes-in-k-group": {
+  "id": 25,
+  "title": "Reverse Nodes in k-Group",
+  "difficulty": "Hard",
+  "tags": [
+   "Linked List",
+   "Recursion"
+  ]
+ },
+ "reverse-odd-levels-of-binary-tree": {
+  "id": 2415,
+  "title": "Reverse Odd Levels of Binary Tree",
+  "difficulty": "Medium",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "reverse-string": {
+  "id": 344,
+  "title": "Reverse String",
+  "difficulty": "Easy",
+  "tags": [
+   "Two Pointers",
+   "String"
+  ]
+ },
+ "rotate-array": {
+  "id": 189,
+  "title": "Rotate Array",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Math",
+   "Two Pointers"
+  ]
+ },
+ "rotate-list": {
+  "id": 61,
+  "title": "Rotate List",
+  "difficulty": "Medium",
+  "tags": [
+   "Linked List",
+   "Two Pointers"
+  ]
+ },
+ "same-tree": {
+  "id": 100,
+  "title": "Same Tree",
+  "difficulty": "Easy",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "Breadth-First Search",
+   "Binary Tree"
+  ]
+ },
+ "score-of-a-string": {
+  "id": 3110,
+  "title": "Score of a String",
+  "difficulty": "Easy",
+  "tags": [
+   "String"
+  ]
+ },
+ "search-a-2d-matrix": {
+  "id": 74,
+  "title": "Search a 2D Matrix",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search",
+   "Matrix"
+  ]
+ },
+ "search-in-rotated-sorted-array": {
+  "id": 33,
+  "title": "Search in Rotated Sorted Array",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "search-in-rotated-sorted-array-ii": {
+  "id": 81,
+  "title": "Search in Rotated Sorted Array II",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "search-insert-position": {
+  "id": 35,
+  "title": "Search Insert Position",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "set-mismatch": {
+  "id": 645,
+  "title": "Set Mismatch",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Bit Manipulation",
+   "Sorting"
+  ]
+ },
+ "simplify-path": {
+  "id": 71,
+  "title": "Simplify Path",
+  "difficulty": "Medium",
+  "tags": [
+   "String",
+   "Stack"
+  ]
+ },
+ "single-element-in-a-sorted-array": {
+  "id": 540,
+  "title": "Single Element in a Sorted Array",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search"
+  ]
+ },
+ "sliding-window-maximum": {
+  "id": 239,
+  "title": "Sliding Window Maximum",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "Queue",
+   "Sliding Window",
+   "Heap (Priority Queue)",
+   "Monotonic Queue",
+   "Range Minimum/Maximum Query"
+  ]
+ },
+ "sort-an-array": {
+  "id": 912,
+  "title": "Sort an Array",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Divide and Conquer",
+   "Sorting",
+   "Heap (Priority Queue)",
+   "Merge Sort",
+   "Bucket Sort",
+   "Radix Sort",
+   "Counting Sort"
+  ]
+ },
+ "sort-array-by-increasing-frequency": {
+  "id": 1636,
+  "title": "Sort Array by Increasing Frequency",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Sorting"
+  ]
+ },
+ "sort-array-by-parity": {
+  "id": 905,
+  "title": "Sort Array By Parity",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Sorting"
+  ]
+ },
+ "sort-colors": {
+  "id": 75,
+  "title": "Sort Colors",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Sorting",
+   "Quicksort",
+   "Bubble Sort"
+  ]
+ },
+ "sort-the-people": {
+  "id": 2418,
+  "title": "Sort the People",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "String",
+   "Sorting"
+  ]
+ },
+ "special-array-i": {
+  "id": 3151,
+  "title": "Special Array I",
+  "difficulty": "Easy",
+  "tags": [
+   "Array"
+  ]
+ },
+ "special-array-with-x-elements-greater-than-or-equal-x": {
+  "id": 1608,
+  "title": "Special Array With X Elements Greater Than or Equal X",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Binary Search",
+   "Sorting"
+  ]
+ },
+ "split-array-largest-sum": {
+  "id": 410,
+  "title": "Split Array Largest Sum",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "Binary Search",
+   "Dynamic Programming",
+   "Greedy",
+   "Prefix Sum"
+  ]
+ },
+ "sqrtx": {
+  "id": 69,
+  "title": "Sqrt(x)",
+  "difficulty": "Easy",
+  "tags": [
+   "Math",
+   "Binary Search",
+   "Newton's Method"
+  ]
+ },
+ "squares-of-a-sorted-array": {
+  "id": 977,
+  "title": "Squares of a Sorted Array",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Sorting"
+  ]
+ },
+ "string-compression": {
+  "id": 443,
+  "title": "String Compression",
+  "difficulty": "Medium",
+  "tags": [
+   "Two Pointers",
+   "String"
+  ]
+ },
+ "string-matching-in-an-array": {
+  "id": 1408,
+  "title": "String Matching in an Array",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "String",
+   "String Matching"
+  ]
+ },
+ "subarray-product-less-than-k": {
+  "id": 713,
+  "title": "Subarray Product Less Than K",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Binary Search",
+   "Sliding Window",
+   "Prefix Sum"
+  ]
+ },
+ "subarray-sum-equals-k": {
+  "id": 560,
+  "title": "Subarray Sum Equals K",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Prefix Sum"
+  ]
+ },
+ "subarrays-with-k-different-integers": {
+  "id": 992,
+  "title": "Subarrays with K Different Integers",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Sliding Window",
+   "Counting"
+  ]
+ },
+ "subtree-of-another-tree": {
+  "id": 572,
+  "title": "Subtree of Another Tree",
+  "difficulty": "Easy",
+  "tags": [
+   "Tree",
+   "Depth-First Search",
+   "String Matching",
+   "Binary Tree",
+   "Hash Function"
+  ]
+ },
+ "text-justification": {
+  "id": 68,
+  "title": "Text Justification",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "String",
+   "Simulation"
+  ]
+ },
+ "time-based-key-value-store": {
+  "id": 981,
+  "title": "Time Based Key-Value Store",
+  "difficulty": "Medium",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Binary Search",
+   "Design"
+  ]
+ },
+ "time-needed-to-buy-tickets": {
+  "id": 2073,
+  "title": "Time Needed to Buy Tickets",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Queue",
+   "Simulation"
+  ]
+ },
+ "top-k-frequent-elements": {
+  "id": 347,
+  "title": "Top K Frequent Elements",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Divide and Conquer",
+   "Sorting",
+   "Heap (Priority Queue)",
+   "Bucket Sort",
+   "Counting",
+   "Quickselect"
+  ]
+ },
+ "trapping-rain-water": {
+  "id": 42,
+  "title": "Trapping Rain Water",
+  "difficulty": "Hard",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Dynamic Programming",
+   "Stack",
+   "Monotonic Stack"
+  ]
+ },
+ "two-sum": {
+  "id": 1,
+  "title": "Two Sum",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table"
+  ]
+ },
+ "two-sum-ii-input-array-is-sorted": {
+  "id": 167,
+  "title": "Two Sum II - Input Array Is Sorted",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Two Pointers",
+   "Binary Search"
+  ]
+ },
+ "unique-email-addresses": {
+  "id": 929,
+  "title": "Unique Email Addresses",
+  "difficulty": "Easy",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "String"
+  ]
+ },
+ "valid-anagram": {
+  "id": 242,
+  "title": "Valid Anagram",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String",
+   "Sorting"
+  ]
+ },
+ "valid-palindrome": {
+  "id": 125,
+  "title": "Valid Palindrome",
+  "difficulty": "Easy",
+  "tags": [
+   "Two Pointers",
+   "String"
+  ]
+ },
+ "valid-palindrome-ii": {
+  "id": 680,
+  "title": "Valid Palindrome II",
+  "difficulty": "Easy",
+  "tags": [
+   "Two Pointers",
+   "String",
+   "Greedy"
+  ]
+ },
+ "valid-parentheses": {
+  "id": 20,
+  "title": "Valid Parentheses",
+  "difficulty": "Easy",
+  "tags": [
+   "String",
+   "Stack",
+   "Bracket Sequences"
+  ]
+ },
+ "valid-perfect-square": {
+  "id": 367,
+  "title": "Valid Perfect Square",
+  "difficulty": "Easy",
+  "tags": [
+   "Math",
+   "Binary Search"
+  ]
+ },
+ "valid-sudoku": {
+  "id": 36,
+  "title": "Valid Sudoku",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Hash Table",
+   "Matrix"
+  ]
+ },
+ "valid-word-abbreviation": {
+  "id": 408,
+  "title": "Valid Word Abbreviation",
+  "difficulty": "Easy",
+  "tags": [
+   "Two Pointers",
+   "String"
+  ]
+ },
+ "wiggle-sort": {
+  "id": 280,
+  "title": "Wiggle Sort",
+  "difficulty": "Medium",
+  "tags": [
+   "Array",
+   "Greedy",
+   "Sorting"
+  ]
+ },
+ "word-pattern": {
+  "id": 290,
+  "title": "Word Pattern",
+  "difficulty": "Easy",
+  "tags": [
+   "Hash Table",
+   "String"
+  ]
+ }
+}
