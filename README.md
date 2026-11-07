@@ -1,109 +1,103 @@
-# LeetCode & NeetCode Solutions — @AbdulDevHub
+<div align="center">
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) and [LeetCode.com](https://leetcode.com) · Repository: `LeetCode-Submissions`
+<img src=".github/assets/banner.jpg" alt="LeetCode-Submissions: NeetCode.io and LeetCode.com solutions synced to GitHub" width="100%" />
 
----
+# LeetCode & NeetCode Solutions
 
-## What is this?
+**Every problem I've solved on [NeetCode.io](https://neetcode.io) and [LeetCode](https://leetcode.com/u/HelionImperion/), synced here automatically.**
 
-This repository contains my personal solutions to coding interview problems from two platforms:
+<a href="https://leetcode.com/u/HelionImperion/"><img src="https://leetcard.jacoblin.cool/HelionImperion?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats for HelionImperion" /></a>
 
-- **[NeetCode.io](https://neetcode.io)** — a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. Solutions are pushed here automatically whenever I submit on NeetCode.
-- **[LeetCode.com](https://leetcode.com)** — the industry-standard platform for coding interview practice. Solutions are synced here weekly via a GitHub Action.
+![Last commit](https://img.shields.io/github/last-commit/AbdulDevHub/Leetcode-Submissions?style=flat-square&label=last%20solved)
+![Top language](https://img.shields.io/github/languages/top/AbdulDevHub/Leetcode-Submissions?style=flat-square)
+[![Stats](https://img.shields.io/github/actions/workflow/status/AbdulDevHub/Leetcode-Submissions/update-readme.yml?style=flat-square&label=stats)](../../actions/workflows/update-readme.yml)
 
----
-
-## How GitHub Sync works
-
-### NeetCode
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
-
-### LeetCode
-1. A **GitHub Action** runs every Saturday at 8am UTC and pulls the latest accepted submission for each problem.
-2. Solutions are committed automatically to the `LeetCode-Problems/` folder — no manual steps needed.
-3. The workflow can also be triggered manually from the **Actions** tab at any time.
+</div>
 
 ---
 
-## Repository structure
+## 📊 Progress by topic
+
+Topics follow the [NeetCode roadmap](https://neetcode.io/roadmap). This section rebuilds itself whenever new solutions land.
+
+<!-- STATS:START -->
+![Solved](https://img.shields.io/badge/Solved-217-2ea043?style=for-the-badge) ![Easy](https://img.shields.io/badge/Easy-108-00b8a3?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-93-ffc01e?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-16-ff375f?style=for-the-badge) ![NeetCode 150](https://img.shields.io/badge/NeetCode%20150-53/150-7c3aed?style=for-the-badge)
+
+| Topic | Solved | Easy | Medium | Hard | NeetCode 150 |
+|---|:-:|:-:|:-:|:-:|---|
+| Arrays & Hashing | **72** | 50 | 20 | 2 | `██████████` 9/9 |
+| Two Pointers | **23** | 11 | 11 | 1 | `██████████` 5/5 |
+| Sliding Window | **18** | 3 | 12 | 3 | `██████████` 6/6 |
+| Stack | **22** | 8 | 11 | 3 | `█████████░` 6/7 |
+| Binary Search | **26** | 9 | 13 | 4 | `██████████` 7/7 |
+| Linked List | **24** | 7 | 14 | 3 | `██████████` 11/11 |
+| Trees | **23** | 13 | 10 | 0 | `██████░░░░` 9/15 |
+| Heap / Priority Queue | **1** | 0 | 1 | 0 | `░░░░░░░░░░` 0/7 |
+| 1-D Dynamic Programming | **1** | 1 | 0 | 0 | `░░░░░░░░░░` 0/12 |
+| Greedy | **2** | 1 | 1 | 0 | `░░░░░░░░░░` 0/8 |
+| Math & Geometry | **2** | 2 | 0 | 0 | `░░░░░░░░░░` 0/8 |
+| Bit Manipulation | **3** | 3 | 0 | 0 | `░░░░░░░░░░` 0/7 |
+
+**Languages:** Python (503 files) · TypeScript (11 files)
+<!-- STATS:END -->
+
+---
+
+## ⚙️ How it stays in sync
+
+| Source | How | When |
+|---|---|---|
+| **NeetCode.io** | NeetCode's GitHub integration commits each submission | Instantly, on every submit |
+| **LeetCode.com** | [`leetcode-sync`](https://github.com/joshcai/leetcode-sync) GitHub Action pulls the latest accepted solution per problem | 1st of every month, 08:00 UTC (or run it manually from **Actions**) |
+| **This README** | A small Python script counts solutions by topic and difficulty | After every push and every LeetCode sync |
+
+## 📁 Repository layout
 
 ```
-neetcode-submissions/
-├── Data Structures & Algorithms/   ← NeetCode solutions by topic
-├── Python For Beginners/           ← NeetCode solutions by topic
-└── LeetCode-Problems/              ← LeetCode solutions synced via GitHub Action
-```
-
-### NeetCode
-Solutions are organized by topic folder, then problem ID:
-```
-<topic-folder>/
-  <problem-id>/
-    submission-0.<ext>   ← first submission
-    submission-1.<ext>   ← second submission
-    ...
-```
-
-**Example:**
-```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
-Data Structures & Algorithms/binary-search/submission-0.ts
-Python For Beginners/python-hello-world/submission-0.py
-```
-
-### LeetCode
-Solutions are organized by problem ID and name:
-```
-LeetCode-Problems/
-  <problem-id>-<problem-name>/
-    <problem-name>.<ext>   ← latest accepted submission
-```
-
-**Example:**
-```
-LeetCode-Problems/0001-two-sum/two-sum.py
-LeetCode-Problems/0021-merge-two-sorted-lists/merge-two-sorted-lists.py
+Leetcode-Submissions/
+├── Data Structures & Algorithms/      ← NeetCode solutions
+│   └── <problem>/submission-<n>.<ext> ← every submission, oldest first
+├── LeetCode-Problems/                 ← LeetCode solutions
+│   └── <id>-<problem>/                ← problem statement + latest accepted solution
+└── .github/
+    ├── workflows/                     ← LeetCode sync + README stats
+    └── scripts/update_readme.py       ← builds the progress table
 ```
 
 ---
 
-## Supported languages
+## 🔑 Fixing the LeetCode sync
 
-| Language | Extension |
-|---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
+If the **Sync LeetCode** action fails with this error, the LeetCode login cookies have expired (they last a few weeks):
 
----
-
-## Settings
-
-### NeetCode
-Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
-
-### LeetCode
-Manage the GitHub Action in `.github/workflows/sync_leetcode.yml`:
-- **Schedule** — change the `cron` value to adjust sync frequency
-- **Manual trigger** — run the workflow on demand from the Actions tab
-- **Session refresh** — update `LEETCODE_SESSION` and `LEETCODE_CSRF_TOKEN` secrets when cookies expire
-
----
-
-*NeetCode sync generated by [NeetCode GitHub Integration](https://neetcode.io) · LeetCode sync powered by [leetcode-sync](https://github.com/joshcai/leetcode-sync)*
 ```
+TypeError: response.data.data.submissionList.submissions is not iterable
+```
+
+To fix it (about 2 minutes):
+
+1. Log in to [leetcode.com](https://leetcode.com) in your browser.
+2. Open DevTools (`F12`), then go to **Application** → **Cookies** → `https://leetcode.com`.
+3. Copy the values of `LEETCODE_SESSION` and `csrftoken`.
+4. In this repo, open **Settings** → **Secrets and variables** → **Actions** and update:
+   - `LEETCODE_SESSION` → the `LEETCODE_SESSION` cookie
+   - `LEETCODE_CSRF_TOKEN` → the `csrftoken` cookie
+5. Go to **Actions** → **Sync LeetCode** → **Run workflow** to sync right away.
+
+> [!TIP]
+> Copy fresh cookies from a session you stay logged in to. Logging out of LeetCode may invalidate them early.
+
+<details>
+<summary><b>Stats table shows a problem in the wrong place?</b></summary>
+
+<br>
+
+NeetCode renames some problems (for example `two-integer-sum` is LeetCode's `two-sum`). If the stats action logs `No LeetCode match`, add the pair to [`.github/scripts/neetcode-aliases.json`](.github/scripts/neetcode-aliases.json).
+
+</details>
+
+---
+
+<div align="center">
+<sub>NeetCode sync by <a href="https://neetcode.io">NeetCode GitHub Integration</a> · LeetCode sync by <a href="https://github.com/joshcai/leetcode-sync">leetcode-sync</a> · Stats card by <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">LeetCode-Stats-Card</a></sub>
+</div>
